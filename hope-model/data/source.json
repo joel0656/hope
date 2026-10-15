@@ -1,0 +1,11 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "source": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+  "catalog": "https://www.gutenberg.org/ebooks/11",
+  "rights": "Project Gutenberg lists this work as public domain in the USA.",
+  "processing": "UTF-8 decoded; CRLF normalized; Gutenberg header and footer excluded from training. Original retained with license.",
+  "sha256_original": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+  "characters": 144600,
+  "split": "First 90% training, last 10% validation"
+}

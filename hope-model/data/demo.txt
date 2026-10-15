@@ -1,0 +1,768 @@
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The cat finds a small red stone. The day is calm and the air is clear.
+The cat watches the sun rise. The day is calm and the air is clear.
+The cat waits near the old tree. The day is calm and the air is clear.
+The cat returns to the warm house. The day is calm and the air is clear.
+The cat walks through the garden. The day is calm and the air is clear.
+The cat looks at the bright moon. The day is calm and the air is clear.
+The cat rests beside the river. The day is calm and the air is clear.
+The cat listens to the quiet rain. The day is calm and the air is clear.
+The dog finds a small red stone. The day is calm and the air is clear.
+The dog watches the sun rise. The day is calm and the air is clear.
+The dog waits near the old tree. The day is calm and the air is clear.
+The dog returns to the warm house. The day is calm and the air is clear.
+The dog walks through the garden. The day is calm and the air is clear.
+The dog looks at the bright moon. The day is calm and the air is clear.
+The dog rests beside the river. The day is calm and the air is clear.
+The dog listens to the quiet rain. The day is calm and the air is clear.
+The bird finds a small red stone. The day is calm and the air is clear.
+The bird watches the sun rise. The day is calm and the air is clear.
+The bird waits near the old tree. The day is calm and the air is clear.
+The bird returns to the warm house. The day is calm and the air is clear.
+The bird walks through the garden. The day is calm and the air is clear.
+The bird looks at the bright moon. The day is calm and the air is clear.
+The bird rests beside the river. The day is calm and the air is clear.
+The bird listens to the quiet rain. The day is calm and the air is clear.
+The child finds a small red stone. The day is calm and the air is clear.
+The child watches the sun rise. The day is calm and the air is clear.
+The child waits near the old tree. The day is calm and the air is clear.
+The child returns to the warm house. The day is calm and the air is clear.
+The child walks through the garden. The day is calm and the air is clear.
+The child looks at the bright moon. The day is calm and the air is clear.
+The child rests beside the river. The day is calm and the air is clear.
+The child listens to the quiet rain. The day is calm and the air is clear.
+The fox finds a small red stone. The day is calm and the air is clear.
+The fox watches the sun rise. The day is calm and the air is clear.
+The fox waits near the old tree. The day is calm and the air is clear.
+The fox returns to the warm house. The day is calm and the air is clear.
+The fox walks through the garden. The day is calm and the air is clear.
+The fox looks at the bright moon. The day is calm and the air is clear.
+The fox rests beside the river. The day is calm and the air is clear.
+The fox listens to the quiet rain. The day is calm and the air is clear.
+The rabbit finds a small red stone. The day is calm and the air is clear.
+The rabbit watches the sun rise. The day is calm and the air is clear.
+The rabbit waits near the old tree. The day is calm and the air is clear.
+The rabbit returns to the warm house. The day is calm and the air is clear.
+The rabbit walks through the garden. The day is calm and the air is clear.
+The rabbit looks at the bright moon. The day is calm and the air is clear.
+The rabbit rests beside the river. The day is calm and the air is clear.
+The rabbit listens to the quiet rain. The day is calm and the air is clear.
+The teacher finds a small red stone. The day is calm and the air is clear.
+The teacher watches the sun rise. The day is calm and the air is clear.
+The teacher waits near the old tree. The day is calm and the air is clear.
+The teacher returns to the warm house. The day is calm and the air is clear.
+The teacher walks through the garden. The day is calm and the air is clear.
+The teacher looks at the bright moon. The day is calm and the air is clear.
+The teacher rests beside the river. The day is calm and the air is clear.
+The teacher listens to the quiet rain. The day is calm and the air is clear.
+The farmer finds a small red stone. The day is calm and the air is clear.
+The farmer watches the sun rise. The day is calm and the air is clear.
+The farmer waits near the old tree. The day is calm and the air is clear.
+The farmer returns to the warm house. The day is calm and the air is clear.
+The farmer walks through the garden. The day is calm and the air is clear.
+The farmer looks at the bright moon. The day is calm and the air is clear.
+The farmer rests beside the river. The day is calm and the air is clear.
+The farmer listens to the quiet rain. The day is calm and the air is clear.

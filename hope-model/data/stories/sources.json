@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "url": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+      "catalog": "https://www.gutenberg.org/ebooks/11",
+      "sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+      "train_characters": 130079,
+      "validation_characters": 14518
+    },
+    {
+      "title": "Three Hundred Aesop's Fables",
+      "url": "https://www.gutenberg.org/cache/epub/21/pg21.txt",
+      "catalog": "https://www.gutenberg.org/ebooks/21",
+      "sha256": "48f2d310226e175250988747ba4c81ff832a218b83c141b38c6dc047a25c1958",
+      "train_characters": 218899,
+      "validation_characters": 24755
+    },
+    {
+      "title": "Grimms' Fairy Tales",
+      "url": "https://www.gutenberg.org/cache/epub/2591/pg2591.txt",
+      "catalog": "https://www.gutenberg.org/ebooks/2591",
+      "sha256": "377ebb8ca06cd8bc0b1015ddb54766c44f50dece731c53bb030f1cc00f54092a",
+      "train_characters": 468124,
+      "validation_characters": 52684
+    }
+  ],
+  "rights": "Project Gutenberg lists these editions as public domain in the USA.",
+  "split": "Ending approximately 10% of each book held out, at a paragraph boundary.",
+  "processing": "Normalize newlines and remove Gutenberg header/footer; retain original files and licenses. Book front matter remains."
+}
