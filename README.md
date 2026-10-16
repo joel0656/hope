@@ -1,6 +1,6 @@
 # Hope — tiny language models trained from scratch
 
-Hope is a character-level, decoder-only Transformer written in Python and PyTorch. This repository contains the complete model folder, two trained checkpoints, training code, source texts, provenance, tests, and recorded losses. **No demo website is included.**
+Hope is a character-level, decoder-only Transformer written in Python and PyTorch. This repository contains the complete model folder, two trained checkpoints, training code, source texts, provenance, tests, and recorded losses.
 
 ## Download
 
