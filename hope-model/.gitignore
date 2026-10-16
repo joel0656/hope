@@ -2,4 +2,3 @@
 __pycache__/
 runs/*
 !runs/hope/
-!runs/hope-stories-v2/

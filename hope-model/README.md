@@ -1,62 +1,59 @@
-# Hope — tiny language models trained from scratch
+# Hope Original
 
-Hope is a character-level, decoder-only Transformer written in Python and PyTorch. This repository contains the complete model folder, two trained checkpoints, training code, source texts, provenance, tests, and recorded losses. **No demo website is included.**
+Hope Original is a small experimental language model built from scratch in Python and PyTorch. It predicts the next character to continue a prompt. This repository distributes one model, trained on three storybooks.
 
-## Download
+## Model size and training
 
-- [Complete model folder](./): browse the source, data, and trained checkpoints.
-- [Hope Stories v2 weights](runs/hope-stories-v2/model.pt): 843,138 parameters, saved at 3,000 training steps.
-- [Hope Original weights](runs/hope/model.pt): 356,331 parameters, saved at 1,500 training steps.
-- [Detailed model card](MODEL_CARD.md): architecture, data, results, limitations, and validation status.
-- [SHA-256 checksums](../SHA256.json): integrity checks for the downloadable files.
+- **843,138 parameters**; checkpoint **3,387,008 bytes (about 3.39 MB)**.
+- 4 Transformer layers, 4 attention heads, embedding width 128.
+- Context: 128 characters; vocabulary: 130 characters.
+- Saved after **3,000 training steps** on CPU. The planned 4,000-step session was interrupted.
+- AdamW, learning rate 0.0003, batch size 16, seed 42.
+- Recorded validation loss decreased from 5.0411 to 1.7293. This is not an accuracy percentage.
 
-GitHub stores these files; it does not execute the model. Run the Python commands below on your computer.
+## Training data
 
-## Setup and generation
+The model learned from Project Gutenberg editions of *Alice's Adventures in Wonderland*, *Three Hundred Aesop's Fables*, and *Grimms' Fairy Tales*. Prepared data contains 817,109 training characters and 91,964 validation characters. Approximately the final 10% of each book was held out at a paragraph boundary. Original source files, notices, and provenance are included in `data/`.
 
-Download this repository using **Code > Download ZIP**, extract it, open a terminal in `hope-model`, and install Python 3.10 or newer.
+It was not trained on the whole internet or on the Hands-On Machine Learning textbook.
 
-### Windows PowerShell
+## Download and run
 
+- [Complete model folder](./)
+- [Hope Original weights](runs/hope/model.pt)
+- [Detailed model card](MODEL_CARD.md)
+- [File checksums](../SHA256.json)
+
+Choose **Code > Download ZIP**, extract the repository, and open a terminal in `hope-model`. Install Python 3.10 or newer.
+
+Windows PowerShell:
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe generate.py --checkpoint runs/hope-stories-v2/model.pt --prompt "Once upon a time" --length 300 --temperature 0.7
+.\.venv\Scripts\python.exe generate.py --prompt "Once upon a time" --length 300 --temperature 0.7
 ```
 
-### macOS / Linux
-
+macOS / Linux:
 ```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
-.venv/bin/python generate.py --checkpoint runs/hope-stories-v2/model.pt --prompt "Once upon a time" --length 300 --temperature 0.7
+.venv/bin/python generate.py --prompt "Once upon a time" --length 300 --temperature 0.7
 ```
 
-For the original model, change the checkpoint to `runs/hope/model.pt`. Prompts must use characters present in the selected model's training vocabulary. Length is measured in characters. The model sees only the most recent 64 or 128 characters, depending on the checkpoint.
+Generation uses `runs/hope/model.pt` by default. Length is measured in characters. Prompts must use characters in the model vocabulary. GitHub stores the files; it does not run the model.
 
-## Train and test
+## Training and tests
 
-With the virtual environment activated, run:
-
+With the virtual environment activated:
 ```sh
 python -m unittest -v
-python train.py --data data/stories/train.txt --val-data data/stories/validation.txt --out runs/new-stories --width 128 --layers 4 --context 128 --steps 4000 --eval-every 500
+python train.py --data data/stories/train.txt --val-data data/stories/validation.txt --out runs/new-training --width 128 --heads 4 --layers 4 --context 128 --steps 4000 --eval-every 500
 ```
 
-The training command starts a **new model from random weights**. It does not resume the included checkpoints. Use a new output directory to preserve existing weights. Checkpoints contain inference weights and vocabulary, not optimizer state for an exact restart. The trainer saves best validation weights as `model.pt`; completed runs also save `last.pt`.
+Training starts from random weights. It does not resume the included model. Use a separate output folder to preserve the checkpoint. Exact resume support requires optimizer and random-generator state, which are not saved.
 
-## Folder contents
+## Files and limitations
 
-| Path | Purpose |
-|---|---|
-| `model.py` | Transformer layers, causal attention, and generation |
-| `train.py` | Training, held-out evaluation, and checkpoint saving |
-| `generate.py` | Command-line text generation |
-| `test_model.py` | Causal masking, learning, and context-window tests |
-| `prepare_data.py`, `prepare_stories.py` | Reproducible text preparation and downloads |
-| `data/` | Training texts, original Gutenberg files, licenses, and source manifests |
-| `runs/hope/` | Original checkpoint, metrics, and sample |
-| `runs/hope-stories-v2/` | Saved 3,000-step checkpoint and metrics |
-| `compare_models.py` | Optional same-window comparison script; no completed comparative report is claimed |
+`model.py` defines the Transformer; `train.py` trains it; `generate.py` generates text; `test_model.py` checks basic mechanics. Dataset preparation scripts and source manifests are included. `runs/hope/` contains the single checkpoint and its recorded metrics.
 
-This is a learning project, not an instruction-tuned chatbot. It often generates invented words or incoherent sentences. Training has not established reliable factual knowledge or conversational ability.
+Hope Original is an educational text-completion experiment. It often produces invented words and incoherent sentences. It has no instruction tuning, browsing, external tools, or reliable factual-answering capability. No demo website is included.

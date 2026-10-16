@@ -11,7 +11,7 @@ def main():
     parser = argparse.ArgumentParser(description='Train Hope from scratch on UTF-8 text.')
     parser.add_argument('--data', type=Path, default=Path(__file__).parent / 'data/demo.txt')
     parser.add_argument('--val-data', type=Path, help='Explicit held-out text instead of the last 10% split.')
-    parser.add_argument('--out', type=Path, default=Path('runs/hope'))
+    parser.add_argument('--out', type=Path, default=Path('runs/new-training'))
     parser.add_argument('--steps', type=int, default=500)
     parser.add_argument('--batch-size', type=int, default=16)
     parser.add_argument('--context', type=int, default=64)
